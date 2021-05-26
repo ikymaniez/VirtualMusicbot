@@ -18,7 +18,7 @@ Aku Adalah Bot Music Telegram Yang Akan Menemani mu Di Voice Call Group.
 Jika Ingin Menggunakan Invite Aku Dan Asisstantnya Ke Dalam Group Lalu Angkat Bot Menjadi Admin. Jika Ada Kendala Bisa Chat Pemilik Nya.
 ━━━━━━━━━━━━━━
 🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [IKYY](https://t.me/boyfriendnice)
-☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/Familythunder)
+☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/joinchat/QlR0Wo5vHqFmNDc1)
 ━━━━━━━━━━━━━━
 𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @Virtualsong_bot
 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantMusicVirtual
@@ -34,7 +34,7 @@ Jika Ingin Menggunakan Invite Aku Dan Asisstantnya Ke Dalam Group Lalu Angkat Bo
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/Familythunder"
+                        "💬 Group", url="https://t.me/joinchat/QlR0Wo5vHqFmNDc1"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/MusikManagement"
