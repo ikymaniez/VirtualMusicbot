@@ -490,7 +490,8 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/Familythunder"
+                        text="Watch On YouTube 🎬",
+                        url=f"{url}")
 
                 ],
                 [       
@@ -622,7 +623,8 @@ async def deezer(client: Client, message_: Message):
              ],                     
              [
                  InlineKeyboardButton(
-                     "Group", url="https://t.me/Familythunder"
+                     text="Listen On Deezer 🎬",
+                     url=f"{url}")
 
              ],
              [       
@@ -755,8 +757,8 @@ async def jiosaavn(client: Client, message_: Message):
              ],                     
              [
                InlineKeyboardButton(
-                   text="Group",
-                   url='https://t.me/Familythunder')
+                   text="Join Updates Channel",
+                   url='https://t.me/MaharashtraTeam')
              ],
              [       
                InlineKeyboardButton(
