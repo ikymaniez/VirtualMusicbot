@@ -11,7 +11,6 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-    await message.reply_text(
         f"""⚜️<b>Hii.. {message.from_user.first_name} Welcome To 𓊈𝗩𝗜𝗥𝗧𝗨𝗔𝗟 𝗠𝗨𝗦𝗜𝗖𓊉 
 
 Aku Adalah Bot Music Telegram Yang Akan Menemani mu Di Voice Call Group.
